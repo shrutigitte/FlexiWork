@@ -1,0 +1,197 @@
+{
+  "node": {
+    "a80453c80590aaac098420c96ff68c7f03f5ed8f": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "88ea1071f826e1a048ae7eaf05ba63d45c645cdb": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "754d556cf4fa2ad5c298f60c672b00c30345598b": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "4c4ab4af168c9a6bb25df67246f1db14df998430": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "ade21c2a978a527415ca9e4a53a3ef3357d2238c": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "2df342360d3407cc2d122cc90dcb1af31e097e00": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "a991179e2541e2915f7a7ae5fc728ba7b150f956": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "75cce78af83c30cce785401ff53ad540b3ca04a4": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "f3b7637e2172831226d3e9a2fd442b0642f1b178": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "60c0e1d29bd3fd03ee79090890b9defd99e80f8f": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "d2a7092c79bfe01b36640baea9e3e4cd3027e73a": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "41ec0190b1f67359770cf13f501451e380d22033": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "c7dab50ca57322ec9828c9100e05d428befaed83": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "1ed9ddd3290be59d4d35b40896d74d9d97914c42": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "960ccb3051a9773413815cd3bfc7039ae00ee540": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "8e49bdf8337dd0da8b0eeb54af87ce5f0fde13a8": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "180ab5e7f5d1adcc245ace5f7f2a40e4b4bd6ec1": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "c1ea4441541d7f892fbe8723a73d811f0f9df119": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "3feb31ac435c0f07b91c09da5fdfd3acba0c891c": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "ba48b050a5a88bbda6368639a12f66859ccebd46": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "5b41485724f233c9b87caa67464166a417099af3": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "eee46aa898b18c150729f0d5e35880c1e563ccd5": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "abead84434f5acb88c2e35c839e9c3167a0ecf77": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    },
+    "c5eafb6c3010283de8818f49db6f4257832510be": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshrutigitte%2FDesktop%2FFlexiWork%2FFlexiWork%2Fsrc%2Flib%2Fsupabase%2Fqueries.ts%22%2C%5B%22getFileDetails%22%2C%22getActiveProductsWithPrice%22%2C%22createFolder%22%2C%22updateFolder%22%2C%22getPrivateWorkspaces%22%2C%22createFile%22%2C%22updateWorkspace%22%2C%22getUsersFromSearch%22%2C%22updateFile%22%2C%22getCollaborators%22%2C%22findUser%22%2C%22getFiles%22%2C%22getWorkspaceDetails%22%2C%22getFolderDetails%22%2C%22deleteWorkspace%22%2C%22getFolders%22%2C%22createWorkspace%22%2C%22deleteFile%22%2C%22deleteFolder%22%2C%22getCollaboratingWorkspaces%22%2C%22getSharedWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22addCollaborators%22%2C%22removeCollaborators%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
